@@ -1,6 +1,9 @@
 h1 {
-    color: maroon;
+    color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    position: relative;
+    text-align: center;
 }
 
 
