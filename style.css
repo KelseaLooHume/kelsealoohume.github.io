@@ -1,11 +1,12 @@
 h1 {
     color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', 'Arial Narrow', Arial, sans-serif;
     font-size: 75px;
     position: relative;
     text-align: center;
     background-color: #354A21;
     text-transform: uppercase;
+    
 }
 
 
