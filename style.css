@@ -8,14 +8,14 @@ h1 {
     text-transform: uppercase;
  }
 
-.nameheader span { 
-                    color: #CDC382;
-                    font-family: Pacifico, Brush Script MT, Cursive, sans-serif;
-                    font-size: 75px;
-                    position: relative;
-                    text-align: right;
-                    background-color: #354A21;
-                    text-transform: uppercase;
+h1 span {
+    color: #CDC382;
+    font-family: Pacifico, Brush Script MT, Cursive, sans-serif;
+    font-size: 50px;
+    position: relative;
+    text-align: right;
+    background-color: #354A21;
+    text-transform: uppercase;
 }
                     
 
@@ -39,5 +39,6 @@ a {
     display: inline;
     position: relative;
     text-align: center;
-    font-family: Pacifico, Brush Script MT, Cursive, sans-serif; 
+    font-family: Fira Mono, Tahoma, sans-serif; 
+    font-size: 20px;
 }
