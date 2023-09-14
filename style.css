@@ -6,8 +6,7 @@ h1 {
     text-align: center;
     background-color: #354A21;
     text-transform: uppercase;
-    
-}
+ }
 
 
 p {
@@ -24,4 +23,8 @@ li {
 a {
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
+}
+
+.topnav {
+    display: inline;
 }
