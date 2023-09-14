@@ -3,10 +3,12 @@ h1 {
     font-family: Pacifico, Brush Script MT, Cursive, sans-serif;
     font-size: 75px;
     position: relative;
-    text-align: center;
+    text-align: left;
     background-color: #354A21;
     text-transform: uppercase;
  }
+
+
 
 
 p {
