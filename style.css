@@ -37,4 +37,7 @@ a {
 
 .topnav li {
     display: inline;
+    position: relative;
+    text-align: center;
+    font-family: Pacifico, Brush Script MT, Cursive, sans-serif; 
 }
