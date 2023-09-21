@@ -2,7 +2,7 @@ body {
 background-color: #546D34;
 }
 
-h3 {
+h3 .nameheader {
     color: #CDC382;
     font-family: Mooli, Veranda, sans-serif;
     font-size: 50px;
