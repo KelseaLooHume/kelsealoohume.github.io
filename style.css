@@ -36,12 +36,3 @@ a {
     font-size: 20px;
 }
 
-h3 .jobtitle {
-    color: #CDC382;
-    font-family: Roboto Condensed, Tahoma, sans-serif;
-    font-size: 50px;
-    position: relative;
-    text-align: right;
-    background-color: #354A21;
-    text-transform: uppercase;
-}
