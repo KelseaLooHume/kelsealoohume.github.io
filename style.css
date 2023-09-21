@@ -32,13 +32,13 @@ a {
     display: inline;
     position: relative;
     text-align: center;
-    font-family: Fira Mono, Tahoma, sans-serif; 
+    font-family: Roboto Condensed, Tahoma, sans-serif; 
     font-size: 20px;
 }
 
-.jobtitle {
+h3 .jobtitle {
     color: #CDC382;
-    font-family: Roboto Condensed, Brush Script MT, Cursive, sans-serif;
+    font-family: Roboto Condensed, Tahoma, sans-serif;
     font-size: 50px;
     position: relative;
     text-align: right;
