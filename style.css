@@ -1,6 +1,6 @@
 h1 {
     color: #CDC382;
-    font-family: Pacifico, Brush Script MT, Cursive, sans-serif;
+    font-family: Mooli, Veranda, sans-serif;
     font-size: 75px;
     position: relative;
     text-align: left;
@@ -32,9 +32,9 @@ a {
     font-size: 20px;
 }
 
- h3 .jobtitle {
+.jobtitle {
     color: #CDC382;
-    font-family: Pacifico, Brush Script MT, Cursive, sans-serif;
+    font-family: Roboto Condensed, Brush Script MT, Cursive, sans-serif;
     font-size: 50px;
     position: relative;
     text-align: right;
